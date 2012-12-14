@@ -1,4 +1,4 @@
 obf
 ===
 
-obfuscation project
+binary code obfuscation
